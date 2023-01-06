@@ -1,0 +1,25 @@
+body{
+    background-color: #202020;
+}
+h1{
+    background-color: ;
+    color: #10f010;
+    font-size: 5rem;
+    text-align: center;
+    margin-left: 23%;
+    margin-right: 27%;
+}
+h2{
+    color: #10f010;
+    font-size: 3rem;
+    text-align: center;
+    margin-left: 23%;
+    margin-right: 27%;
+}
+p{
+    color: #f0f0f0;
+    font-size: 1rem;
+    text-align: left;
+    margin-left: 23%;
+    margin-right: 27%;
+}
